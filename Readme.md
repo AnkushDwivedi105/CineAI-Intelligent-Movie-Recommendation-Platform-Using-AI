@@ -282,8 +282,6 @@ Through this project, I gained hands-on experience with:
 
 GitHub: https://github.com/AnkushDwivedi105
 
-LinkedIn: Add Your LinkedIn Profile Here
-
 ---
 
 ## ⭐ Support
